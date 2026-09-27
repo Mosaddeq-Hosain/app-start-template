@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.tsbuildinfo
+*.log
+.env
+.dev.vars
+.dev.vars.*
+apps/api/data/
+.wrangler/
+playwright-report/
+test-results/
